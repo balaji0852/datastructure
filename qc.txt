@@ -1,0 +1,5 @@
+the fact that a quantum system can exist in a superposition or linear combi-
+nation of states allows us to do simultaneous parallel computations that cannot be
+done even, in principle, on any classical computer.This feature allows a quantum
+computer to do parallel computations using a single circuit-providing a dramatic
+speedup in many cases.
